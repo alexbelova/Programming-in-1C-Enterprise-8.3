@@ -6,7 +6,7 @@ My first repository.
 
 👀 I’m interested in programming.
 
-🌱 I’m currently learning programming languages such as C++, SQL.
+🌱 I’m currently learning programming on SQL, 1С.
 
 💞️ I’m looking to collaborate on ...
 
