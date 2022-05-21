@@ -1,13 +1,2 @@
-# hello-world
 
-My first repository.
-
-👋 Hi, I’m @alexbelova.
-
-👀 I’m interested in programming.
-
-🌱 I’m currently learning programming on SQL, 1С.
-
-💞️ I’m looking to collaborate on ...
-
-📫 How to reach me ...
+<p>For certainty of further actions, we will immediately formulate an applied task that we are going to solve for a conditional company. We will assume that our organization conducts trade activities, which consist in the purchase of goods from suppliers and manufacturers. Further actions are reduced to the sale of these goods through a trading network consisting of several branches. At the same time, we will assume that sometimes some of the goods are transferred to the exhibition to advertise our range. Accordingly, there is a reverse process – the transfer of goods from the exhibition to the branches. Of course, the computer accounting system being developed should record these movements. When selling goods, it is also necessary to take into account the results of the work of managers for their subsequent monetary remuneration. This description is a simplified model of the activities of a real organization.</p>
