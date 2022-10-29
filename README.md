@@ -7,3 +7,4 @@
 <p>The Catalogs folder contains five directories: cities, managers, products, branches and firms. As well as the Products folder with the Products directory list form.</p>
 <p>In the Constants folder is the constant "Name of the organization".</p>
 <p>In the Document Journals folder is the document journal "Trade".</p>
+<p>The Documents folder contains six documents: bank statement, customer order, moving to the exhibition, moving from the exhibition, receipt of goods and sale of goods.</p>
