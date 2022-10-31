@@ -20,6 +20,8 @@
 
 <p><b>Document Journals:</b> trade.</p>
 
+<p><b>Enums:</b> categories.</p>
+
 <p>The "Accumulation Registers" folder contains three accumulation registers: the number of goods, sales by branches and settlements with firms.</p>
 <p>The "Catalogs" folder contains five directories: cities, managers, products, branches and firms. As well as the "Products" folder with the Products directory list form.</p>
 <p>In the "Constants" folder is the constant "Name of the organization".</p>
