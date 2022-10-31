@@ -16,6 +16,8 @@
 
 <p><b>Catalogs:</b> cities, managers, goods, branches, firms.</p>
 
+<p><b>Documents:</b> receipt of goods, sale of goods, moving to the exhibition, moving from the exhibition, customer order, bank statement.</p>
+
 <p>The "Accumulation Registers" folder contains three accumulation registers: the number of goods, sales by branches and settlements with firms.</p>
 <p>The "Catalogs" folder contains five directories: cities, managers, products, branches and firms. As well as the "Products" folder with the Products directory list form.</p>
 <p>In the "Constants" folder is the constant "Name of the organization".</p>
