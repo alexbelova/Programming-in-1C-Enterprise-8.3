@@ -6,6 +6,7 @@
 <p>The configuration consists of subsystems, constants, directories, documents, document logs, enumerations, reports and accumulation registers.</p>
 <p><b>Subsystems:</b> analytics, Chapter 3 reports, receipt, sale, management.</p>
 <p><b>Constants:</b> name of the organization.</p>
+Catalogs
 <p>The "Accumulation Registers" folder contains three accumulation registers: the number of goods, sales by branches and settlements with firms.</p>
 <p>The "Catalogs" folder contains five directories: cities, managers, products, branches and firms. As well as the "Products" folder with the Products directory list form.</p>
 <p>In the "Constants" folder is the constant "Name of the organization".</p>
