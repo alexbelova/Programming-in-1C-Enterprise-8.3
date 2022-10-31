@@ -22,9 +22,4 @@
 
 <p><b>Enums:</b> categories.</p>
 
-<p>The "Accumulation Registers" folder contains three accumulation registers: the number of goods, sales by branches and settlements with firms.</p>
-<p>The "Catalogs" folder contains five directories: cities, managers, products, branches and firms. As well as the "Products" folder with the Products directory list form.</p>
-<p>In the "Constants" folder is the constant "Name of the organization".</p>
-<p>In the "Document Journals" folder is the document journal "Trade".</p>
-<p>The "Documents" folder contains six documents: bank statement, customer order, moving to the exhibition, moving from the exhibition, receipt of goods and sale of goods.</p>
-<p>In the folder "Enums" there is an enumeration of "Categories".</p>
+<p><b>Accumulation registers:</b> quantity of goods, sales by branches, settlements with firms.</p>
