@@ -23,3 +23,5 @@
 <p><b>Enums:</b> categories.</p>
 
 <p><b>Accumulation registers:</b> quantity of goods, sales by branches, settlements with firms.</p>
+
+<p><b>Report2_1</b> - organization of the selection from the table.
