@@ -18,3 +18,4 @@
 <p><b>Report2_5</b> is a request to select three minimum amounts upon receipt of goods.</p>
 <p><b>Report2_6</b> is a request to extract the three maximum amounts of goods received.</p>
 <p><b>Report2_7</b> is a request to extract the initial fragment of the list of employees.</p>
+<p><b>Report2_8</b> - selection of unique supplier-product combinations.</p>
