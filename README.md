@@ -15,3 +15,4 @@
 <p><b>Report2_2</b> is a query with data ordering by phone numbers.</p>
 <p><b>Report2_3</b> is a query with ordering by two fields.</p>
 <p><b>Report2_4</b> is a request to extract information from the accumulation register.</p>
+<p><b>Report2_5</b> is a request to select three minimum amounts upon receipt of goods.</p>
