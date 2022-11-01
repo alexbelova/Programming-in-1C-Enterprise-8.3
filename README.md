@@ -13,3 +13,4 @@
 <p><b>Accumulation registers:</b> quantity of goods, sales by branches, settlements with firms.</p>
 <p><b>Report2_1</b> - organization of the selection from the table.
 <p><b>Report2_2</b> is a query with data ordering by phone numbers.
+<p><b>Report2_3</b> is a query with ordering by two fields.
