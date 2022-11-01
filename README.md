@@ -21,3 +21,4 @@
 <p><b>Report2_8</b> - selection of unique supplier-product combinations.</p>
 <p><b>Report2_9</b> is a query with the inclusion of two conditions and the keyword And.</p>
 <p><b>Report2_10</b> is a query with the keywords AND and OR.</p>
+<p><b>Report2_11</b> is a query demonstrating the use of aggregate functions.</p>
