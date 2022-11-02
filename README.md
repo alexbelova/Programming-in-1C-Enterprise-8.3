@@ -13,12 +13,12 @@
 <p><b>Accumulation registers:</b> quantity of goods, sales by branches, settlements with firms.</p>
 <p><b>Report2_1</b> - organization of the selection from the table.</p>
 <p><b>Report2_2</b> is a query with data ordering by phone numbers.</p>
-<p><b>Report2_3</b> is a query with ordering by two fields.</p>
+<p><b>Report2_3</b> is a query with ordering by two fields.</p> 
 <p><b>Report2_4</b> is a request to extract information from the accumulation register.</p>
 <p><b>Report2_5</b> is a request to select three minimum amounts upon receipt of goods.</p>
 <p><b>Report2_6</b> is a request to extract the three maximum amounts of goods received.</p>
 <p><b>Report2_7</b> is a request to extract the initial fragment of the list of employees.</p>
-<p><b>Report2_8</b> - selection of unique supplier-product combinations.</p>
+<p><b>Report2_8</b> - selection of unique supplier-product combinations.<p>
 <p><b>Report2_9</b> is a query with the inclusion of two conditions and the keyword And.</p>
 <p><b>Report2_10</b> is a query with the keywords AND and OR.</p>
 <p><b>Report2_11</b> is a query demonstrating the use of aggregate functions.</p>
@@ -31,3 +31,4 @@
 <p><b>Report2_18</b> is a query with the keyword HAVING.</p>
 <p><b>Report2_19</b> is a request to generate a list of products with an indication of the company.</p>
 <p><b>Report2_20</b> is a request to select matching products.</p>
+<p><b>Report2_21</b> - extraction of branches according to the condition of receipt and movement of goods.</p>
