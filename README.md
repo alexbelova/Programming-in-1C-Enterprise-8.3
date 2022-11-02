@@ -27,3 +27,4 @@
 <p><b>Report2_14</b> is a request to extract information from the Quantity of Goods register.</p>
 <p><b>Report2_15</b> is a request for selecting documents by condition in the Price field.</p>
 <p><b>Report2_16</b> is a query with the keyword BETWEEN.</p>
+<p><b>Report2_17</b> - request to documents using the keyword BETWEEN.</p>
