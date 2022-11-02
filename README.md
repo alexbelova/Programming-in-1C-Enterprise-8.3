@@ -24,3 +24,4 @@
 <p><b>Report2_11</b> is a query demonstrating the use of aggregate functions.</p>
 <p><b>Report2_12</b> is a query demonstrating the use of the QUANTITY function.</p>
 <p><b>Report2_13</b> is a parametric query for extracting dates and document numbers.</p>
+<p><b>Report2_14</b> is a request to extract information from the Quantity of Goods register.</p>
