@@ -32,3 +32,4 @@
 <p><b>Report2_19</b> is a request to generate a list of products with an indication of the company.</p>
 <p><b>Report2_20</b> is a request to select matching products.</p>
 <p><b>Report2_21</b> - extraction of branches according to the condition of receipt and movement of goods.</p>
+<p><b>Report2_22</b> is a request to extract information about managers.</p>
