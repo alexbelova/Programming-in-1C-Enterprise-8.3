@@ -29,3 +29,4 @@
 <p><b>Report2_16</b> is a query with the keyword BETWEEN.</p>
 <p><b>Report2_17</b> - request to documents using the keyword BETWEEN.</p>
 <p><b>Report2_18</b> is a query with the keyword HAVING.</p>
+<p><b>Report2_19</b> is a request to generate a list of products with an indication of the company.</p>
