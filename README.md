@@ -42,3 +42,4 @@
 <p><b>Report3_3</b> is a request to extract information about the receipt of goods.</p>
 <p><b>Report3_4</b> - request for generating a report on the work of branches.</p>
 <p><b>Report3_5</b> is a request to extract information about managers.</p>
+<p><b>Report3_6</b> is a request that provides information extraction.</p>
