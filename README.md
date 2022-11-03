@@ -35,3 +35,4 @@
 <p><b>Report2_22</b> is a request to extract information about managers.</p>
 <p><b>Report2_23</b> is a request with the right connection.</p>
 <p><b>Report2_24</b> is a request for extracting information about the availability of goods.</p>
+<p><b>Report2_25</b> is a query using a full external join of tables.</p>
