@@ -38,3 +38,4 @@
 <p><b>Report2_25</b> is a query using a full external join of tables.</p>
 <p><b>Report2_26</b> is a query with the VIEW function.</p>
 <p><b>Report3_1</b> is a request for extracting information on product balances.</p>
+<p><b>Report3_2</b> is a request for extracting information on products with sorting.</p>
