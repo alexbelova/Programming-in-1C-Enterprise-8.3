@@ -44,3 +44,4 @@
 <p><b>Report3_5</b> is a request to extract information about managers.</p>
 <p><b>Report3_6</b> is a request that provides information extraction.</p>
 <p><b>Report3_7</b> is a request that provides information extraction.</p>
+<p><b>Settlements with firms</b> - a report that displays the calculations of this organization with firms.</p>
