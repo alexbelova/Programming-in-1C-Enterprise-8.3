@@ -40,3 +40,4 @@
 <p><b>Report3_1</b> is a request for extracting information on product balances.</p>
 <p><b>Report3_2</b> is a request for extracting information on products with sorting.</p>
 <p><b>Report3_3</b> is a request to extract information about the receipt of goods.</p>
+<p><b>Report3_4</b> - request for generating a report on the work of branches.</p>
